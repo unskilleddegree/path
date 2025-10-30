@@ -382,7 +382,128 @@
     "deskripsi": "Program Umroh Yaqin Banget 'Jejak Nabi' 9 hari (14 Jan) bersama Ustadz Salim A. Fillah. Termasuk tur Thaif & Kereta Cepat.",
     "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
     "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umroh Jejak Nabi Yaqin Banget (Ustadz Salim A. Fillah)",
+    "hotel": "⭐ 4",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "IndiGo",
+    "harga": "Rp 28.300.000",
+    "tanggal": "2026-01-14",
+    [cite_start]"deskripsi": "Program Umroh Jejak Nabi Yaqin Banget 9 Hari [cite: 7] [cite_start]bersama Ustadz H. Salim A. Fillah[cite: 11]. [cite_start]Termasuk Kereta Cepat[cite: 27, 32].",
+    "foto": "KATALOG_YQN_BGT_UJN_12_2026.jpg",
+    "pdf": "KATALOG YQN BGT UJN 12 2026_BDG KINANTI.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Reguler Januari 2026 (Sapphire Plus)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 55.200.000",
+    "tanggal": "2026-01-03",
+    [cite_start]"deskripsi": "Umrah Reguler Januari 2026 (9 & 12 Hari) [cite: 478] [cite_start]paket Sapphire Plus[cite: 485]. [cite_start]Bersama Asatidz jejakimani, plus tur Thaif[cite: 478].",
+    "foto": "KATALOG_JAN_2026_SAPPHIRE_PLUS.jpg",
+    "pdf": "KATALOG JAN 2026 REG_BDG KINANTI.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Reguler Januari 2026 (Sapphire)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 46.900.000",
+    "tanggal": "2026-01-03",
+    [cite_start]"deskripsi": "Umrah Reguler Januari 2026 (9 & 12 Hari) [cite: 478] [cite_start]paket Sapphire[cite: 491]. [cite_start]Bersama Asatidz jejakimani, plus tur Thaif[cite: 478].",
+    "foto": "KATALOG_JAN_2026_SAPPHIRE.jpg",
+    "pdf": "KATALOG JAN 2026 REG_BDG KINANTI.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Reguler Januari 2026 (Ruby)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 38.700.000",
+    "tanggal": "2026-01-03",
+    [cite_start]"deskripsi": "Umrah Reguler Januari 2026 (9 & 12 Hari) [cite: 478] [cite_start]paket Ruby[cite: 487]. [cite_start]Bersama Asatidz jejakimani, plus tur Thaif[cite: 478].",
+    "foto": "KATALOG_JAN_2026_RUBY.jpg",
+    "pdf": "KATALOG JAN 2026 REG_BDG KINANTI.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Reguler Januari 2026 (Onyx)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 29.900.000",
+    "tanggal": "2026-01-12",
+    [cite_start]"deskripsi": "Umrah Reguler Januari 2026 (9 & 12 Hari) [cite: 478] [cite_start]paket Onyx[cite: 493]. [cite_start]Bersama Asatidz jejakimani, plus tur Thaif[cite: 478, 693].",
+    "foto": "KATALOG_JAN_2026_ONYX.jpg",
+    "pdf": "KATALOG JAN 2026 REG_BDG KINANTI.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Januari 2026 (Sapphire)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 46.900.000",
+    "tanggal": "2026-01-07",
+    [cite_start]"deskripsi": "Umrah Januari 2026 (9 & 12 Hari) [cite: 47] [cite_start]paket Sapphire[cite: 56]. [cite_start]Bersama Asatidz jejakimani, plus tur Thaif[cite: 55].",
+    "foto": "KATALOG_UMRH_JAN_2026_SAPPHIRE.jpg",
+    "pdf": "KATALOG UMRH JAN 2026_KINANTI.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Januari 2026 (Ruby)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 38.700.000",
+    "tanggal": "2026-01-07",
+    [cite_start]"deskripsi": "Umrah Januari 2026 (9 & 12 Hari) [cite: 47] [cite_start]paket Ruby[cite: 61]. [cite_start]Bersama Asatidz jejakimani, plus tur Thaif[cite: 55].",
+    "foto": "KATALOG_UMRH_JAN_2026_RUBY.jpg",
+    "pdf": "KATALOG UMRH JAN 2026_KINANTI.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Januari 2026 (Onyx)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 29.900.000",
+    "tanggal": "2026-01-12",
+    [cite_start]"deskripsi": "Umrah Januari 2026 (9 & 12 Hari) [cite: 47] [cite_start]paket Onyx[cite: 65]. [cite_start]Bersama Asatidz jejakimani, plus tur Thaif[cite: 55, 243].",
+    "foto": "KATALOG_UMRH_JAN_2026_ONYX.jpg",
+    "pdf": "KATALOG UMRH JAN 2026_KINANTI.pdf"
+  },
+  {
+    "jenis": "Muslim Trip",
+    "nama": "Umrah New Experience (Jan 2026)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 37.500.000",
+    "tanggal": "2026-01-15",
+    [cite_start]"deskripsi": "Umrah New Experience 12 Hari [cite: 285] (15 Jan) [cite_start]plus tur Al Ula, Thaif, dan Jabal Khandama[cite: 287, 288]. [cite_start]Hotel Makkah Le Meridien Tower (★5, shuttle)[cite: 368].",
+    "foto": "KATALOG_NEW_EXP_JAN_2026.jpg",
+    "pdf": "KATALOG NEW EXP JAN-FEB 2026_KINANTI.pdf"
+  },
+  {
+    "jenis": "Muslim Trip",
+    "nama": "Umrah New Experience (Feb 2026)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 37.500.000",
+    "tanggal": "2026-02-05",
+    [cite_start]"deskripsi": "Umrah New Experience 12 Hari [cite: 285] (5 Feb) [cite_start]plus tur Al Ula, Thaif, dan Jabal Khandama[cite: 287, 288]. [cite_start]Hotel Makkah Le Meridien Tower (★5, shuttle)[cite: 368].",
+    "foto": "KATALOG_NEW_EXP_FEB_2026.jpg",
+    "pdf": "KATALOG NEW EXP JAN-FEB 2026_KINANTI.pdf"
   }
 ]
+
 
 
