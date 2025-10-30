@@ -1,16 +1,17 @@
 [
   {
-    "jenis": "Umrah",
-    "nama": "Paket Umrah Silver",
-    "hotel": "⭐ 4",
-    "maskapai": "Garuda Indonesia",
-    "bandara": "Bandara Soekarno-Hatta",
-    "tanggal": "2025-12-05",
-    "harga": "Rp 27.500.000",
-    "deskripsi": "Paket umrah hemat dengan fasilitas hotel bintang 4, pembimbing ibadah berpengalaman, serta transportasi AC full di Madinah dan Makkah.",
-    "foto": "https://source.unsplash.com/600x400/?mecca,kaaba",
-    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/refs/heads/main/main/KATALOG%20NOV%202025%20REG_BDG%20KINANTI.pdf"
-  },
+  "jenis": "Umrah",
+  "nama": "Paket Umrah Silver",
+  "hotel": "⭐ 4",
+  "bandara": "Soekarno-Hatta (CGK)",
+  "maskapai": "Garuda Indonesia",
+  "harga": "Rp 27.500.000",
+  "tanggal": "2025-12-05",
+  "deskripsi": "Paket dengan pembimbing bersertifikat dan fasilitas lengkap.",
+  "foto": "https://images.unsplash.com/photo-1609840114038-6f221926b4bc?q=80&w=800",
+  "pdf": "https://example.com/flyer-umrah-silver.pdf",
+  "thumbnail": "https://example.com/flyer-umrah-silver.jpg"
+},
   {
     "jenis": "Haji",
     "nama": "Paket Haji Khusus",
@@ -24,4 +25,5 @@
     "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/flyer-haji.pdf"
   }
 ]
+
 
