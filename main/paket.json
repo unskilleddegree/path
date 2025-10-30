@@ -1,6 +1,198 @@
 [
   {
     "jenis": "Umrah",
+    "nama": "Umrah November 2025 (Sapphire Plus)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 49.900.000",
+    "tanggal": "2025-11-07",
+    "deskripsi": "Paket Umrah November - Sapphire Plus. Hotel Makkah Fairmont (★5) & Madinah Sofitel Shahd (★5).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah November 2025 (Sapphire)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 44.200.000",
+    "tanggal": "2025-11-05",
+    "deskripsi": "Paket Umrah November - Sapphire. Hotel Makkah Marwa Rotana (★5) & Madinah Maden Rawdah (★5).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah November 2025 (Ruby)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 37.600.000",
+    "tanggal": "2025-11-05",
+    "deskripsi": "Paket Umrah November - Ruby. Hotel Makkah Anjum (★5) & Madinah Al Anshar Golden Tulip (★3).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah November 2025 (Onyx)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 29.900.000",
+    "tanggal": "2025-11-06",
+    "deskripsi": "Paket Umrah November - Onyx. Hotel Makkah Le Meridien Tower (★5, shuttle) & Madinah Al Mukhtaro (★3).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Desember 2025 (Sapphire Plus)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 58.900.000",
+    "tanggal": "2025-12-21",
+    "deskripsi": "Paket Umrah Desember - Sapphire Plus. Hotel Makkah Fairmont (★5) & Madinah Intercontinental (★5).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Desember 2025 (Sapphire)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 46.900.000",
+    "tanggal": "2025-12-05",
+    "deskripsi": "Paket Umrah Desember - Sapphire. Hotel Makkah Marwa Rotana (★5) & Madinah Maden Rawdah (★5).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Desember 2025 (Ruby)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 39.300.000",
+    "tanggal": "2025-12-05",
+    "deskripsi": "Paket Umrah Desember - Ruby. Hotel Makkah Anjum (★5) & Madinah Al Anshar Golden Tulip (★3).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Desember 2025 (Onyx)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 29.900.000",
+    "tanggal": "2025-12-05",
+    "deskripsi": "Paket Umrah Desember - Onyx. Hotel Makkah Le Meridien Tower (★5, shuttle) & Madinah Al Mukhtaro (★3).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Muslim Trip",
+    "nama": "Umrah New Experience (3 Des)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 36.900.000",
+    "tanggal": "2025-12-03",
+    "deskripsi": "Umrah New Experience 12 hari (3 Des) plus tur Al Ula & Thaif. Hotel Makkah Le Meridien Tower (★5, shuttle).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Muslim Trip",
+    "nama": "Umrah New Experience (27 Des)",
+    "hotel": "⭐ 4",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 39.900.000",
+    "tanggal": "2025-12-27",
+    "deskripsi": "Umrah New Experience 12 hari (27 Des) plus tur Al Ula & Thaif. Hotel Makkah Fajr Badea 4 (★4).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Parenting (Sapphire Plus)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 63.000.000",
+    "tanggal": "2025-12-26",
+    "deskripsi": "Umrah Parenting (26 Des) bersama Ustadz Hepi Andi & Kang Canun. Paket Sapphire Plus. Hotel Makkah Fairmont (★5).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Parenting (Sapphire)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 54.900.000",
+    "tanggal": "2025-12-26",
+    "deskripsi": "Umrah Parenting (26 Des) bersama Ustadz Hepi Andi & Kang Canun. Paket Sapphire. Hotel Makkah Marwa Rotana (★5).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Parenting (Ruby)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 44.800.000",
+    "tanggal": "2025-12-26",
+    "deskripsi": "Umrah Parenting (26 Des) bersama Ustadz Hepi Andi & Kang Canun. Paket Ruby. Hotel Makkah Anjum (★5).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umrah Parenting (Onyx)",
+    "hotel": "⭐ 5",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "Saudia",
+    "harga": "Rp 35.500.000",
+    "tanggal": "2025-12-26",
+    "deskripsi": "Umrah Parenting (26 Des) bersama Ustadz Hepi Andi & Kang Canun. Paket Onyx. Hotel Makkah Le Meridien Tower (★5, shuttle).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Yaqin Umroh November",
+    "hotel": "⭐ 4",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "IndiGo",
+    "harga": "Rp 24.900.000",
+    "tanggal": "2025-11-06",
+    "deskripsi": "Program Yaqin Umroh 9 hari, keberangkatan November. Hotel Makkah Fajr Badea 4 (★4).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
+    "nama": "Umroh Yaqin Banget November",
+    "hotel": "⭐ 4",
+    "bandara": "Soekarno-Hatta (CGK)",
+    "maskapai": "IndiGo",
+    "harga": "Rp 25.500.000",
+    "tanggal": "2025-11-05",
+    "deskripsi": "Program Umroh Yaqin Banget 9 hari, keberangkatan November. Termasuk kereta cepat. Hotel Makkah Fajr Badea 4 (★4).",
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
+  },
+  {
+    "jenis": "Umrah",
     "nama": "Umrah Reguler Februari 2026 (Sapphire Plus)",
     "hotel": "⭐ 5",
     "bandara": "Soekarno-Hatta (CGK)",
@@ -8,8 +200,8 @@
     "harga": "Rp 53.700.000",
     "tanggal": "2026-02-02",
     "deskripsi": "Paket Umrah Reguler Februari 2026 - Sapphire Plus (9 Hari). Hotel Makkah Fairmont (★5) & Madinah Intercontinental (★5).",
-    "foto": "KATALOG_FEB_2026_SAPPHIRE_PLUS.jpg",
-    "pdf": "KATALOG FEB 2026 REG_BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -20,8 +212,8 @@
     "harga": "Rp 45.900.000",
     "tanggal": "2026-02-02",
     "deskripsi": "Paket Umrah Reguler Februari 2026 - Sapphire (9 Hari). Hotel Makkah Marwa Rotana (★5) & Madinah Maden Rawdah (★5).",
-    "foto": "KATALOG_FEB_2026_SAPPHIRE.jpg",
-    "pdf": "KATALOG FEB 2026 REG_BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -32,8 +224,8 @@
     "harga": "Rp 37.900.000",
     "tanggal": "2026-02-02",
     "deskripsi": "Paket Umrah Reguler Februari 2026 - Ruby (9 Hari). Hotel Makkah Anjum (★5) & Madinah Al Anshar (★3).",
-    "foto": "KATALOG_FEB_2026_RUBY.jpg",
-    "pdf": "KATALOG FEB 2026 REG_BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -44,8 +236,8 @@
     "harga": "Rp 29.900.000",
     "tanggal": "2026-02-02",
     "deskripsi": "Paket Umrah Reguler Februari 2026 - Onyx (9 Hari). Hotel Makkah Le Meridien Tower (★5, shuttle) & Madinah Al Mukhtaro (★3).",
-    "foto": "KATALOG_FEB_2026_ONYX.jpg",
-    "pdf": "KATALOG FEB 2026 REG_BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Muslim Trip",
@@ -56,8 +248,8 @@
     "harga": "Rp 37.500.000",
     "tanggal": "2026-01-15",
     "deskripsi": "Umrah New Experience 12 hari (15 Jan) plus tur Al Ula & Thaif. Hotel Makkah Le Meridien Tower (★5, shuttle).",
-    "foto": "KATALOG_NEW_EXP_JAN-FEB_2026_JAN.jpg",
-    "pdf": "KATALOG NEW EXP JAN-FEB 2026_KINANTI (1).pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Muslim Trip",
@@ -68,8 +260,8 @@
     "harga": "Rp 37.500.000",
     "tanggal": "2026-02-05",
     "deskripsi": "Umrah New Experience 12 hari (5 Feb) plus tur Al Ula & Thaif. Hotel Makkah Le Meridien Tower (★5, shuttle).",
-    "foto": "KATALOG_NEW_EXP_JAN-FEB_2026_FEB.jpg",
-    "pdf": "KATALOG NEW EXP JAN-FEB 2026_KINANTI (1).pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -80,8 +272,8 @@
     "harga": "Rp 53.300.000",
     "tanggal": "2026-02-01",
     "deskripsi": "Umrah Universitas Kehidupan (1 Feb) bersama Habib Muhammad & Ust. Luqmanulhakim. Paket Sapphire Plus. Hotel Makkah Fairmont (★5).",
-    "foto": "KATALOG_UNIVERSITAS_KEHIDUPAN_SAPPHIRE_PLUS.jpg",
-    "pdf": "KATALOG UNIVERSITAS KEHIDUPAN RUBY SAP SAP PLUS-BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -92,8 +284,8 @@
     "harga": "Rp 47.200.000",
     "tanggal": "2026-02-01",
     "deskripsi": "Umrah Universitas Kehidupan (1 Feb) bersama Habib Muhammad & Ust. Luqmanulhakim. Paket Sapphire. Hotel Makkah Marwa Rotana (★5).",
-    "foto": "KATALOG_UNIVERSITAS_KEHIDUPAN_SAPPHIRE.jpg",
-    "pdf": "KATALOG UNIVERSITAS KEHIDUPAN RUBY SAP SAP PLUS-BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -104,8 +296,8 @@
     "harga": "Rp 39.300.000",
     "tanggal": "2026-02-01",
     "deskripsi": "Umrah Universitas Kehidupan (1 Feb) bersama Habib Muhammad & Ust. Luqmanulhakim. Paket Ruby. Hotel Makkah Anjum (★5).",
-    "foto": "KATALOG_UNIVERSITAS_KEHIDUPAN_RUBY.jpg",
-    "pdf": "KATALOG UNIVERSITAS KEHIDUPAN RUBY SAP SAP PLUS-BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -116,8 +308,8 @@
     "harga": "Rp 30.900.000",
     "tanggal": "2026-02-01",
     "deskripsi": "Umrah Universitas Kehidupan (1 Feb) bersama Habib Muhammad & Ust. Luqmanulhakim. Paket Onyx. Hotel Makkah Le Meridien Tower (★5, shuttle).",
-    "foto": "KATALOG_UNIVERSITAS_KEHIDUPAN_ONYX.jpg",
-    "pdf": "KATALOG UNIVERSITAS KEHIDUPAN ONYX-BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -128,8 +320,8 @@
     "harga": "Rp 25.900.000",
     "tanggal": "2026-02-01",
     "deskripsi": "Umrah Universitas Kehidupan (1 Feb) bersama Habib Muhammad & Ust. Luqmanulhakim. Paket Yaqin. Hotel Makkah Fajr Badea 4 (★4).",
-    "foto": "KATALOG_UNIVERSITAS_KEHIDUPAN_YQN.jpg",
-    "pdf": "KATALOG UNIVERSITAS KEHIDUPAN YQN-BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -140,8 +332,8 @@
     "harga": "Rp 24.900.000",
     "tanggal": "2026-01-24",
     "deskripsi": "Program Yaqin Umroh 9 hari, keberangkatan Januari 2026. Hotel Makkah Fajr Badea 4 (★4).",
-    "foto": "KATALOG_YQN_JAN_2026.jpg",
-    "pdf": "KATALOG YQN JAN 2026_BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -152,8 +344,8 @@
     "harga": "Rp 26.200.000",
     "tanggal": "2026-01-24",
     "deskripsi": "Program Umroh Yaqin Banget 9 hari, keberangkatan Januari 2026. Termasuk kereta cepat. Hotel Makkah Fajr Badea 4 (★4).",
-    "foto": "KATALOG_YQN_BGT_JAN_2026.jpg",
-    "pdf": "KATALOG YQN BGT JAN 2026_BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -164,8 +356,8 @@
     "harga": "Rp 24.900.000",
     "tanggal": "2026-02-01",
     "deskripsi": "Program Yaqin Umroh 9 hari, keberangkatan Februari 2026. Hotel Makkah Fajr Badea 4 (★4).",
-    "foto": "KATALOG_YQN_FEB_2026.jpg",
-    "pdf": "KATALOG YQN FEB 2026_BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -176,8 +368,8 @@
     "harga": "Rp 26.200.000",
     "tanggal": "2026-02-01",
     "deskripsi": "Program Umroh Yaqin Banget 9 hari, keberangkatan Februari 2026. Termasuk kereta cepat. Hotel Makkah Fajr Badea 4 (★4).",
-    "foto": "KATALOG_YQN_BGT_FEB_2026.jpg",
-    "pdf": "KATALOG YQN BGT FEB 2026_BDG KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   },
   {
     "jenis": "Umrah",
@@ -188,7 +380,7 @@
     "harga": "Rp 28.300.000",
     "tanggal": "2026-01-14",
     "deskripsi": "Program Umroh Yaqin Banget 'Jejak Nabi' 9 hari (14 Jan) bersama Ustadz Salim A. Fillah. Termasuk tur Thaif & Kereta Cepat.",
-    "foto": "KATALOG_YQN_BGT_UJN_12.jpg",
-    "pdf": "KATALOG YQN BGT UJN 12_KINANTI.pdf"
+    "foto": "GANTI_SAYA_DENGAN_LINK_GAMBAR.jpg",
+    "pdf": "GANTI_SAYA_DENGAN_LINK_PDF.pdf"
   }
 ]
