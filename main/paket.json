@@ -1,36 +1,4 @@
 [
-  {
-    "id": 1,
-    "nama": "Paket Umrah Silver",
-    "hotel": "Hotel Bintang 4",
-    "maskapai": "Garuda Indonesia",
-    "bandara": "Bandara Soekarno-Hatta",
-    "tanggal": "2025-12-05",
-    "harga": "Rp 27.500.000",
-    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/KATALOG%20NOV%202025%20REG_BDG%20KINANTI.pdf"
-  },
-  {
-    "id": 2,
-    "nama": "Paket Umrah Gold",
-    "hotel": "Hotel Bintang 5",
-    "maskapai": "Saudi Airlines",
-    "bandara": "Bandara Kertajati",
-    "tanggal": "2026-01-10",
-    "harga": "Rp 31.900.000",
-    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/KATALOG%20JAN%202026%20REG_BDG%20KINANTI.pdf"
-  },
-  {
-    "id": 3,
-    "nama": "Paket Umrah Ekonomis",
-    "hotel": "Hotel Bintang 3",
-    "maskapai": "Lion Air",
-    "bandara": "Bandara Soekarno-Hatta",
-    "tanggal": "2025-11-15",
-    "harga": "Rp 23.800.000",
-    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/KATALOG%20NOV%202025%20EKONOMIS%20REG_BDG%20KINANTI.pdf"
-  }
-]
-
 {
   "jenis": "Umrah",
   "nama": "Paket Umrah Silver",
@@ -44,3 +12,7 @@
   "thumbnail": "https://raw.githubusercontent.com/unskilleddegree/path/main/KATALOG%20NOV%202025%20EKONOMIS%20REG_BDG%20KINANTI.pdf",
   "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/KATALOG%20NOV%202025%20EKONOMIS%20REG_BDG%20KINANTI.pdf"
 }
+]
+
+
+
