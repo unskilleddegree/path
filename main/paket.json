@@ -9,7 +9,7 @@
     "harga": "Rp 27.500.000",
     "deskripsi": "Paket umrah hemat dengan fasilitas hotel bintang 4, pembimbing ibadah berpengalaman, serta transportasi AC full di Madinah dan Makkah.",
     "foto": "https://source.unsplash.com/600x400/?mecca,kaaba",
-    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/flyer-umrah-silver.pdf"
+    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/refs/heads/main/main/KATALOG%20NOV%202025%20REG_BDG%20KINANTI.pdf"
   },
   {
     "jenis": "Haji",
@@ -24,3 +24,4 @@
     "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/flyer-haji.pdf"
   }
 ]
+
