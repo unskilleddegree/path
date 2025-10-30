@@ -1,14 +1,26 @@
 [
   {
     "jenis": "Umrah",
-    "nama": "Paket Hemat 9 Hari",
-    "hotel": "⭐ 3",
+    "nama": "Paket Umrah Silver",
+    "hotel": "⭐ 4",
     "maskapai": "Garuda Indonesia",
-    "bandara": "Husein Sastranegara (BDO)",
-    "tanggal": "2025-12-01",
-    "harga": "Rp 28.500.000",
-    "deskripsi": "Paket hemat dengan fasilitas standar dan pembimbing lokal.",
-    "foto": "https://example.com/foto.jpg",
-    "pdf": "https://example.com/flyer.pdf"
+    "bandara": "Bandara Soekarno-Hatta",
+    "tanggal": "2025-12-05",
+    "harga": "Rp 27.500.000",
+    "deskripsi": "Paket umrah hemat dengan fasilitas hotel bintang 4, pembimbing ibadah berpengalaman, serta transportasi AC full di Madinah dan Makkah.",
+    "foto": "https://source.unsplash.com/600x400/?mecca,kaaba",
+    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/flyer-umrah-silver.pdf"
+  },
+  {
+    "jenis": "Haji",
+    "nama": "Paket Haji Khusus",
+    "hotel": "⭐ 5",
+    "maskapai": "Saudi Airlines",
+    "bandara": "Bandara Soekarno-Hatta",
+    "tanggal": "2025-06-20",
+    "harga": "Rp 120.000.000",
+    "deskripsi": "Program haji dengan kuota resmi, bimbingan intensif, dan fasilitas hotel dekat Masjidil Haram.",
+    "foto": "https://source.unsplash.com/600x400/?hajj,mecca",
+    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/flyer-haji.pdf"
   }
 ]
