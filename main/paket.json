@@ -1,48 +1,14 @@
 [
   {
     "jenis": "Umrah",
-    "hotel": "⭐ 5",
-    "bandara": "Soekarno-Hatta (CGK)",
-    "maskapai": "Saudia",
-    "tanggal": "2025-12-05",
-    "nama": "Umrah Premium Desember",
-    "harga": "Rp 38.000.000",
-    "deskripsi": "Hotel bintang 5, pembimbing ustadz senior, dan fasilitas VIP.",
-    "foto": "https://images.unsplash.com/photo-1623748740803-abc7a942f5b3?q=80&w=800&auto=format&fit=crop"
-    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/main/KATALOG%20NOV%202025%20REG_BDG%20KINANTI.pdf"
-  },
-  {
-    "nama": "Paket Umrah Premium",
-    "deskripsi": "Fasilitas hotel bintang 5...",
-    "harga": "Rp 35.000.000",
-    "foto": "https://source.unsplash.com/600x400/?madinah,mosque",
-    "pdf": "https://raw.githubusercontent.com/unskilleddegree/path/main/main/KATALOG%20NOV%202025%20REG_BDG%20KINANTI.pdf"
-  },
-  {
-    "jenis": "Haji",
-    "hotel": "⭐ 4",
-    "bandara": "Husein Sastranegara (BDO)",
-    "maskapai": "Garuda Indonesia",
-    "tanggal": "2025-06-10",
-    "nama": "Haji Plus Bandung",
-    "harga": "Rp 120.000.000",
-    "deskripsi": "Fasilitas lengkap, tenda AC Mina, dan bimbingan ibadah resmi.",
-    "foto": "https://images.unsplash.com/photo-1609183912443-2fbd1f16a97d?q=80&w=800&auto=format&fit=crop"
-  },
-  {
-    "jenis": "Muslim Trip",
+    "nama": "Paket Hemat 9 Hari",
     "hotel": "⭐ 3",
-    "bandara": "Juanda (SUB)",
-    "maskapai": "Qatar Airways",
-    "tanggal": "2025-08-12",
-    "nama": "Wisata Muslim Turki",
-    "harga": "Rp 29.000.000",
-    "deskripsi": "City tour Istanbul & Cappadocia, halal food & pembimbing lokal.",
-    "foto": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=800&auto=format&fit=crop"
+    "maskapai": "Garuda Indonesia",
+    "bandara": "Husein Sastranegara (BDO)",
+    "tanggal": "2025-12-01",
+    "harga": "Rp 28.500.000",
+    "deskripsi": "Paket hemat dengan fasilitas standar dan pembimbing lokal.",
+    "foto": "https://example.com/foto.jpg",
+    "pdf": "https://example.com/flyer.pdf"
   }
 ]
-
-
-
-
-
